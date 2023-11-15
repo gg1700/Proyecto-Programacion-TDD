@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Recurrente
+comment1.params=cad
+comment1.target=java.lang.String\ inversoSimple(java.lang.String)
+comment2.params=cad\ n\ muestra
+comment2.target=java.lang.String\ inversoSimple(java.lang.String,\ int,\ char)
+comment3.params=cad
+comment3.target=java.lang.String\ invertirPalabra(java.lang.String)
+comment4.params=cad\ n\ i
+comment4.target=java.lang.String\ invertirPalabra(java.lang.String,\ int,\ int)
+numComments=5
