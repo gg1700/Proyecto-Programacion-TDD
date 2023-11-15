@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Recurrente3
-comment1.params=num1\ num2
-comment1.target=int\ contarIguales(int,\ int)
-comment2.params=num1\ num2
-comment2.target=int\ contarIguales2(int,\ int)
-comment3.params=num1\ num2\ cont
-comment3.target=int\ contarIguales2(int,\ int,\ int)
-numComments=4
