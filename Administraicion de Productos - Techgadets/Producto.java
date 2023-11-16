@@ -3,6 +3,7 @@ public class Producto{
     
     public Producto(String nombre){
         this.nombre = nombre;
+        //validarNombre(nombre);
     }
     
     public String getNombre(){
